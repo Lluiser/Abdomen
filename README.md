@@ -1,7 +1,7 @@
 # Abdomen
 Torso T1 clone
 
-place everything in the same folder
+place everything in the same folder. send the .syx file to your launch control xl via the novation editor.
 
 
 done:
