@@ -1,5 +1,5 @@
 # Abdomen
-Torso T1 clone. rough work in progress
+_____Torso T1 clone. rough work in progress
 
 place everything in the same folder. send the .syx file to your launch control xl via the novation editor.
 
@@ -33,7 +33,7 @@ save/load patterns
 
 
 
-CHANGELOG  
+___CHANGELOG  
 
   
 
@@ -47,7 +47,7 @@ tweaks to pulse/repeat system
 
   
 
-BUGS/NOTES:  
+____BUGS/NOTES:  
 
   
 
